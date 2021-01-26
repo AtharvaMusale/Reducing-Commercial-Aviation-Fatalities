@@ -8,9 +8,10 @@ Source: https://www.kaggle.com/c/reducing-commercial-aviation-fatalities. Most o
 
 # Mapping into ML problem - 
 Based on the data given like ECG,EEG,GSR and othe features we are supposed to predict the state of awareness of pilot. There are four classes as an output:
-1. Channelized Attention (CA) - This type of attention is focussed on one task and no other tasks were attended by the pilot during this stage.
-2. Diverted Attention(DA) - This type of attention is diverted by the processes related to the decision making.(Can be thought as multitasking, as attention is given to various tasks).
-3. Startle/Surprise(SS) - Involves surprise or sudden change in scenario when attention level gets disrupted.
+1. Baseline 
+2. Channelized Attention (CA) - This type of attention is focussed on one task and no other tasks were attended by the pilot during this stage.
+3. Diverted Attention(DA) - This type of attention is diverted by the processes related to the decision making.(Can be thought as multitasking, as attention is given to various tasks).
+4. Startle/Surprise(SS) - Involves surprise or sudden change in scenario when attention level gets disrupted.
 
 # Evaluation Metric- 
 The metric whcih is used is Multi Class Log-Loss. 

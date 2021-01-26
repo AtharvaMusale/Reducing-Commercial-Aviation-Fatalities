@@ -1,5 +1,5 @@
 # Reducing-Commercial-Aviation-Fatalities
-I wrote a blog on this project:
+I wrote a blog on this project:\n
 Link- https://atharvamusale.medium.com/reducing-commercial-aviation-fatalities-c335757e8d01
 
 # Objective-

@@ -1,5 +1,5 @@
 # Reducing-Commercial-Aviation-Fatalities
-I wrote a blog on my approach to this solution with detailed EDA and all the tries I did to get the solution to this probelm:
+### I wrote a detailed blog on my approach to thsi problem on medium, I would recommend you to read it for better understanding of the problem:
 
 ### Link- https://atharvamusale.medium.com/reducing-commercial-aviation-fatalities-c335757e8d01
 

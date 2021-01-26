@@ -1,6 +1,7 @@
 # Reducing-Commercial-Aviation-Fatalities
-I wrote a blog on this project:\n
-Link- https://atharvamusale.medium.com/reducing-commercial-aviation-fatalities-c335757e8d01
+I wrote a blog on this project:
+
+## Link- https://atharvamusale.medium.com/reducing-commercial-aviation-fatalities-c335757e8d01
 
 # Objective-
 Source: https://www.kaggle.com/c/reducing-commercial-aviation-fatalities. Most of the flight related fatalities step from loss of " aeroplane state awareness". That is, ineffective attention management on the part of pilots who may be distracted, sleepy or in other dangerous cognitive states. In this competition, kagglers are asked to build a model for predicting the pilot's state of awareness based on the data consisting of some information like ECG, EEG, GSR(Galvanic Skin Response), Respiration etc. The model built using this data will be used to detect if pilot is going into troubling physical condition or not. So that, using the result of this model pilots can be alerted and the accidents in aviation industry can be reduced.

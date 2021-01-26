@@ -20,3 +20,4 @@ The metric whcih is used is Multi Class Log-Loss.
 # Best Model and its result - 
 LightGBM outperformed all the other algorithms and the results I got were as follows:
 ![ScreenShot](https://github.com/AtharvaMusale/Reducing-Commercial-Aviation-Fatalities/blob/master/Screenshot%202021-01-26%20at%208.22.02%20AM.png)
+

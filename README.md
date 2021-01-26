@@ -8,4 +8,4 @@ In this competition, kagglers are asked to build a model for predicting the pilo
 
 # Evaluation Metric- 
 The metric whcih is used is Multi Class Log-Loss. 
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![ScreenShot](https://github.com/AtharvaMusale/Reducing-Commercial-Aviation-Fatalities/blob/master/Screenshot%202021-01-26%20at%208.15.06%20AM.png)
